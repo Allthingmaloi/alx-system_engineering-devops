@@ -1,2 +1,3 @@
-I hope this one's correct
+#!/bin/bash
+second alx git task
 
